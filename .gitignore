@@ -1,0 +1,47 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.python
+env/
+venv/
+ENV/
+.venv/
+
+# Data file
+data/
+*.csv
+*.parquet
+*.json
+datasets/
+
+# ML models
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Secrets
+.env
+config.ini
+*.key
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+logs/
+
+# MLflow
+mlruns/
+mlflow.db
