@@ -39,10 +39,10 @@ This project demonstrates production-ready ML engineering by building a comprehe
 
 ## 🛠️ Technology Stack
 
-**Data Engineering:** PySpark, Delta Lake, Apache Airflow
-**ML/MLOps:** Scikit-learn, MLflow, Fairlearn
-**Deployment:** Docker, Kubernetes, FastAPI
-**Cloud:** Databricks, AWS/Azure (planned)
+**Data Engineering:** PySpark, Delta Lake, Apache Airflow <br/>
+**ML/MLOps:** Scikit-learn, MLflow, Fairlearn <br/>
+**Deployment:** Docker, Kubernetes, FastAPI <br/>
+**Cloud:** Databricks, AWS/Azure (planned) <br/>
 **CI/CD:** GitHub Actions
 
 ## 🚀 Getting Started
